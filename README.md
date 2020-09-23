@@ -28,7 +28,7 @@ Optuna has 3 different hyperparameter optimization algorithms integrated into it
 
 For this study, one development environment was created in Anaconda, where the most important ML library Tensorflow-Keras was installed. Along with Tensorflow-Keras, some other useful python libraries were installed for data pre-processing and visualization 
 
-The study was carried out in a remote PC at P&G, which was equipped with NVIDIA GPU GeForce RTX 1080Ti. The GPU had an internal memory of 11 GB [23]
+The study was carried out in a remote PC equipped with NVIDIA GPU GeForce RTX 1080Ti.
 
 Citations:
 
